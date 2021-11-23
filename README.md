@@ -1,4 +1,4 @@
-- 👋 Hi, My Name is Best Verified and I am a Discord Bot Developer. My discord is Best Verified#1698
+- 👋 Hi, My Name is Best Verified and I am a Discord Bot Developer. My discord is Best Verified#6969
 - 👀 I’m interested in Coding Python(discord.py) and JavaScript(node.js)
 - 🌱 I’m currently learning more skills in Python and JavaScript and also learn the Gmail API
-- 📫 How to reach me: You can reach me on Discord Best Verified#1698, im always active and friendly. If you would like a custom bot just let me know, I dont charge tons!
+- 📫 How to reach me: You can reach me on Discord Best Verified#6969, im always active and friendly. If you would like a custom bot just let me know, I dont charge tons!
